@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SRIRUPINPOTULA
+- 👋 Hi, I’m @SRI RUPIN POTULA
 - 👀 I’m interested in Data Sciences and keenly learning to develope real-time projects on Artificial Learning!!!!!
 - 💻 On the other hand, figuring out ways to hook up Data Science knowledge with the project of Development.
 - 🌱 I’m currently learning to explore my views about the scenario of 
